@@ -1,0 +1,46 @@
+#File:Start
+#ToList:Roles
+<(Programador en vivo)>
+<(Facilitador de contenido)>
+<(A)>
+<(b)>
+<(c)>
+<(D)>
+<(E)>
+<(F)>
+<(G)>
+#EndToList
+#ToList:Estudiantes
+<(Cristopher)(Aza)(2023-0731)(4)>
+<(Pers)(Uno)(20xx-xxxx)(3,3,3,0)>
+<(Pers)(Dos)(20xx-xxxx)(1)>
+<(Pers)(tres)(20xx-xxxx)(2)>
+<(Pers)(cuatro)(20xx-xxxx)()>
+<(Pers)(Cinco)(20xx-xxxx)()>
+<(Cristopher)(Aza)(2023-0731)()>
+<(Pers)(Uno)(20xx-xxxx)(4)>
+<(Pers)(Dos)(20xx-xxxx)()>
+<(Pers)(tres)(20xx-xxxx)()>
+<(Pers)(cuatro)(20xx-xxxx)(0,0,0,6)>
+<(Pers)(Cinco)(20xx-xxxx)()>
+<(Cristopher)(Aza)(2023-0731)(1,1,1,5)>
+<(Pers)(Uno)(20xx-xxxx)(3)>
+<(Pers)(Dos)(20xx-xxxx)(4,4,4,3)>
+<(Pers)(tres)(20xx-xxxx)(7)>
+<(Pers)(cuatro)(20xx-xxxx)(1,2)>
+<(Pers)(Cinco)(20xx-xxxx)(0)>
+<(Cristopher)(Aza)(2023-0731)()>
+<(Pers)(Uno)(20xx-xxxx)()>
+<(Pers)(Dos)(20xx-xxxx)(2,2,2,8)>
+<(Pers)(tres)(20xx-xxxx)()>
+<(Pers)(cuatro)(20xx-xxxx)()>
+<(Pers)(Cinco)(20xx-xxxx)()>
+#EndToList
+#ToList:Registros
+<(22/3/2024 9:43:40 p. m.)(0,1,2,3,4)(10,12,20,1,14)>
+<(22/3/2024 9:44:10 p. m.)(0,1,2,3,4)(10,12,20,1,14)>
+<(22/3/2024 9:44:15 p. m.)(0,1,2,3,4)(10,12,20,1,14)>
+<(22/3/2024 9:44:20 p. m.)(0,1,2,3,4)(1,16,3,13,7)>
+<(22/3/2024 9:44:50 p. m.)(0,1,2,3,4,5,6,7,8)(17,2,16,14,0,12,10,15,20)>
+#EndToList
+#File:End

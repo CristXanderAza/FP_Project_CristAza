@@ -1,0 +1,41 @@
+#File:Start
+#ToList:Roles
+<(Programador en vivo)>
+<(Facilitador de contenido)>
+<(Tester)>
+#EndToList
+#ToList:Estudiantes
+<(Adrian)(Rojas Hidalgo)(20xx-xxxx)()>
+<(Bladimir)(Díaz)(20xx-xxxx)()>
+<(Bryam Leonardo)(Nuñez)(20xx-xxxx)()>
+<(Cesar Jasser)(De Jesus Mejia)(20xx-xxxx)()>
+<(Christopher)(Fernandez Valera)(20xx-xxxx)()>
+<(Cristopher Xander)(Aza Diaz)(2023-0731)(0)>
+<(Deury Dayron)(De La Cruz Ubiera)(20xx-xxxx)()>
+<(Diana)(Guerrero Roble)(20xx-xxxx)()>
+<(Eduardo Enmanuel)(Martinez Cespedes)(20xx-xxxx)()>
+<(Elian Felix)(Leonardo)(20xx-xxxx)()>
+<(Frankenny Ubrí)(Peréz)(20xx-xxxx)()>
+<(Franklin Antonio)(Núñez Brito)(20xx-xxxx)()>
+<(Gabriel)(Paulino)(20xx-xxxx)(2)>
+<(Hilda)(Cedeño)(20xx-xxxx)()>
+<(Jesús Manuel)(Heredia Jimenéz)(20xx-xxxx)(0)>
+<(Jesus Steven)(Ramrez Felz)(20xx-xxxx)()>
+<(Jimroy)(Atiles Sanchez)(20xx-xxxx)(1)>
+<(Jose Alberto)(Dominguez Mejia)(20xx-xxxx)()>
+<(Kerit Dimithar)(Machuca Mena)(20xx-xxxx)()>
+<(Laura Rosmeris)(Vasquez Mateo)(20xx-xxxx)(0)>
+<(Luis Angel)(Calderon Ramirez)(20xx-xxxx)(1)>
+<(Maria Emilia)(Mancebo Ramirez)(20xx-xxxx)()>
+<(Miguel Angel)(Cordero Sanchez)(20xx-xxxx)()>
+<(Naomi)(Meran Padilla)(20xx-xxxx)()>
+<(Orlando Jose)(Martinez Rodriguez)(20xx-xxxx)()>
+<(Oscar Eduardo)(Cuello Sosa)(20xx-xxxx)()>
+<(Rosemary Michelle)(Valdez)(20xx-xxxx)(1)>
+#EndToList
+#ToList:Registros
+<(23/3/2024 3:48:37 p. m.)(0,1)(14,16)>
+<(23/3/2024 3:49:08 p. m.)(0,1)(5,20)>
+<(23/3/2024 3:49:33 p. m.)(0,1,2)(19,26,12)>
+#EndToList
+#File:End

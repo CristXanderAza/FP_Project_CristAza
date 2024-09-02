@@ -1,0 +1,17 @@
+#File:Start
+#ToList:Roles
+<(Programador en vivo)>
+<(Facilitador de contenido)>
+#EndToList
+#ToList:Estudiantes
+<(Cristopher)(Aza)(2023-0731)(1)>
+<(Pers)(Uno)(20xx-xxxx)(0)>
+<(Pers)(Dos)(20xx-xxxx)()>
+<(Pers)(tres)(20xx-xxxx)()>
+<(Pers)(cuatro)(20xx-xxxx)()>
+<(Pers)(Cinco)(20xx-xxxx)()>
+#EndToList
+#ToList:Registros
+<(22/3/2024 8:05:25 p. m.)(0,1)(1,0)>
+#EndToList
+#File:End
